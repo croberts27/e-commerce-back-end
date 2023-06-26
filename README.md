@@ -19,7 +19,9 @@ The purpose of this project is to build the back end for an e-commerce site. Thi
 - MySQL2
 - NPM dotenv Package
 
-# GIF
+# Screenshot
+
+![Alt text](./images/GET-categories-id.png)
 
 # Credits
 
