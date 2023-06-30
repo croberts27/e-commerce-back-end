@@ -7,7 +7,7 @@ The purpose of this project is to build the back end for an e-commerce site. Thi
 ## Table of Contents
 
 - [Installation](#installation)
-- [GIF](#gif)
+- [Video](#video)
 - [Credits](#credits)
 - [Questions](#questions)
 
@@ -19,9 +19,9 @@ The purpose of this project is to build the back end for an e-commerce site. Thi
 - MySQL2
 - NPM dotenv Package
 
-# Screenshot
+# Video
 
-![Alt text](./images/GET-categories-id.png)
+[Insomnia-Recording](https://drive.google.com/file/d/10qkLXXNruxCG2Z8Q1WvYzwTmFQX9Zhgt/view)
 
 # Credits
 
